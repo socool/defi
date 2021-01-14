@@ -14,6 +14,9 @@
 - https://makerdao.com/
 - https://aave.com/
 - https://uniswap.io/
+- https://venus.io/
+- https://defirate.com/
+lending rate มีข่าวเป็นรายอาทิตย์
 
 ## DEXES
 - https://uniswap.io/
@@ -25,6 +28,8 @@
 - https://synthetix.io/
 - https://nexusmutual.io/
 - https://hegic.co/
+- https://terra.mirror.finance/
+ซื้อสินทรัพย์จำลอง (หุ้นสหรัฐ) และทำฟาร์มเงิน (Liquidity Pools)
 
 ## Payments
 - https://flexa.network/
@@ -39,3 +44,5 @@
 ## Portfolio
 - https://zapper.fi/
 - https://debank.com/
+- https://www.uniswaproi.com/
+ตรวจสอบ portfolio ได้แต่ลิมิตที่ 10,000$
