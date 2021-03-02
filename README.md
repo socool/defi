@@ -28,8 +28,7 @@ lending rate มีข่าวเป็นรายอาทิตย์
 - https://synthetix.io/
 - https://nexusmutual.io/
 - https://hegic.co/
-- https://terra.mirror.finance/
-ซื้อสินทรัพย์จำลอง (หุ้นสหรัฐ) และทำฟาร์มเงิน (Liquidity Pools)
+- https://terra.mirror.finance ซื้อสินทรัพย์จำลอง (หุ้นสหรัฐ) และทำฟาร์มเงิน (Liquidity Pools)
 
 ## Payments
 - https://flexa.network/
