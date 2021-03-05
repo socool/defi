@@ -69,6 +69,9 @@
 - https://vfat.tools/bsc/ [BSC] Pool เยอะ information แน่น หน้าตา retro
 - https://farm.army/ [BSC] ทางเลือก คล้ายๆ yieldwatch
 
+## Tools 
+- https://chainlist.org/ เพิ่ม network เข้าใน metamask
+
 ## Learn
 - https://crypviz.io/ แหล่งความรู้ด้าน crypto, financial
 - https://cryptozombies.io/ สอน Solidity มีภาษาไทย (เฉพาะ Basic) บริษัทแม่ย้ายไปทำ Health Tech ตอนแรกระดมทุนทำ NFP card บน Blockchain
