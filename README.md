@@ -25,6 +25,7 @@
 - https://sushiswapclassic.org/
 - https://kulap.io/
 - https://bsc.mirror.finance/ Bridge สำหรับ BSC ไป Terra
+- https://www.wardenswap.finance/ Dex แบบหา Rate ที่ดีที่สุดให้
 
 ## CEX
 - https://www.binance.com/ exchange เจ้าใหญ่ที่สุดในโลก [02/03/2021]
@@ -36,7 +37,10 @@
 ## Leverage
 - https://autofarm.network/ platform สำหรับ claim เหรียญ auto บน BSC
 - https://www.alpacafinance.org/ 
+- https://homora-bsc.alphafinance.io/  Leverage Farming โดย alpha finance [BSC]
 
+## Yield Farming
+- https://app.anchorprotocol.com/ farm stable บน Terra Platform 20%++
 
 ## Derivatives & Synthetic
 - https://synthetix.io/
@@ -59,7 +63,7 @@
 - https://harvest.finance/
 
 ## Portfolio
-- https://apeboard.finance/ ดูได้ทั้ง ETH, BSC, Terra (แต่ terra ยังไม่สมบูรณ์) [01/03/2021]
+- https://apeboard.finance/ ดูได้ทั้ง ETH, BSC, Terra (Wallet, Luna Staking) [16/03/2021]
 - https://zapper.fi/
 - https://debank.com/
 - https://www.uniswaproi.com/ ตรวจสอบ portfolio ได้แต่ลิมิตที่ 10,000$
