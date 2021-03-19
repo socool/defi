@@ -25,6 +25,7 @@
 - https://sushiswapclassic.org/
 - https://kulap.io/
 - https://bsc.mirror.finance/ Bridge สำหรับ BSC ไป Terra
+- https://www.binance.org/en/bridge Bridge จาก BSC ไป ​Network อื่น เช่น ​ETH,BTC,DOT
 - https://www.wardenswap.finance/ Dex แบบหา Rate ที่ดีที่สุดให้
 
 ## CEX
