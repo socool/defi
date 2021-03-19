@@ -100,6 +100,7 @@
 - https://getwaffle.io/ เหมือน Truffle แต่ใหม่กว่า [recommended]
 - https://graphql.bitquery.io/ ใช้ query ข้อมูลใน BSC แบบ graph
 - https://www.blockchaincenter.net/altcoin-season-index/ ใช้ตรวจสอบว่าถึงฤดู alt coin หรือยัง
+- https://www.cryps.info/pt/THB_para_Satoshi/ ตรวจสอบค่าเงิน Satoshi กับ Thai Baht
 
 ### Oracle
 - https://thegraph.com/ ใช้ query protocol ต่างๆ ใน ETH และ IPFS ผ่าน Graph
