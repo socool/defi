@@ -27,10 +27,12 @@
 - https://bsc.mirror.finance/ Bridge สำหรับ BSC ไป Terra
 - https://www.binance.org/en/bridge Bridge จาก BSC ไป ​Network อื่น เช่น ​ETH,BTC,DOT
 - https://www.wardenswap.finance/ Dex แบบหา Rate ที่ดีที่สุดให้
+- https://bridge.terra.money/ Bridge สำหรับ Tera Chain
 
 ## CEX
 - https://www.binance.com/ exchange เจ้าใหญ่ที่สุดในโลก [02/03/2021]
 - https://www.kucoin.com/ exchange ของ hongkong มี ust เจ้าแรก
+- https://trade.zipmex.co.th/ Web Trade คนไทย มีเหรียญ ZMT
 
 ## Game
 - https://game.seascape.network/ เล่นเกมแล้วได้ reward ฟาร์มได้ (02/03/2021 ตอนนี้มีแค่ Profit Circus)
@@ -38,7 +40,7 @@
 ## Leverage
 - https://autofarm.network/ platform สำหรับ claim เหรียญ auto บน BSC
 - https://www.alpacafinance.org/ 
-- https://homora-bsc.alphafinance.io/  Leverage Farming โดย alpha finance [BSC]
+- https://homora-bsc.alphafinance.io/ [BSC] Leverage Farming โดย alpha finance 
 
 ## Yield Farming
 - https://app.anchorprotocol.com/ farm stable บน Terra Platform 20%++
@@ -59,7 +61,7 @@
 - https://gitcoin.co/ Community และทำงานแลก Crypto
 
 ## Assets
-- https://badger.finance/ เก็บ BTC บน Ethereum Network และได้ Dividend [ERC20]
+- https://badger.finance/ [ERC20] เก็บ BTC บน Ethereum Network และได้ Dividend 
 - https://renproject.io/
 - https://harvest.finance/
 
@@ -73,6 +75,7 @@
 - https://howmuchismylp.com/ ของคนไทย มี Pool เยอะ
 - https://vfat.tools/bsc/ [BSC] Pool เยอะ information แน่น หน้าตา retro
 - https://farm.army/ [BSC] ทางเลือก คล้ายๆ yieldwatch
+- https://farmfol.io/ [BSC] ตรวจสอบ Portfolio ราคา 10$
 
 ## Tools 
 - https://chainlist.org/ เพิ่ม network เข้าใน metamask
