@@ -10,6 +10,7 @@
 - https://coinmarketcap.com/
 - https://www.coingecko.com/
 - https://www.defistation.io/ Market Cap ของ BSC
+- https://defillama.com/home ดู Market Cap ETH,BSC,Terra แยกตามประเภทได้
 
 ## Lending
 - https://makerdao.com/
@@ -28,6 +29,7 @@
 - https://www.binance.org/en/bridge Bridge จาก BSC ไป ​Network อื่น เช่น ​ETH,BTC,DOT
 - https://www.wardenswap.finance/ Dex แบบหา Rate ที่ดีที่สุดให้
 - https://bridge.terra.money/ Bridge สำหรับ Tera Chain
+- https://dex.guru/ DEX สำหรับ token ที่ยังไม่ได้ list บน exchange
 
 ## CEX
 - https://www.binance.com/ exchange เจ้าใหญ่ที่สุดในโลก [02/03/2021]
