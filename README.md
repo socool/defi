@@ -1,9 +1,10 @@
 # DEFI
 ลิ้งค์ของเว็บไซต์หรือแพลดฟอร์มที่เกี่ยวกับ DEFI
 
-## ETH Gas Tools
-- https://www.gasnow.org/
-- https://fees.wtf/
+## Gas Tools
+- https://www.gasnow.org/ [ETH]
+- https://fees.wtf/ [ETH]
+- https://bscfee.wtf/ [BSC]
 
 ## Market Cap
 - https://defipulse.com/
