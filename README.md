@@ -1,5 +1,9 @@
 # DEFI
 ลิ้งค์ของเว็บไซต์หรือแพลดฟอร์มที่เกี่ยวกับ DEFI
+## NFT
+- https://www.lootcharacter.com/ [ETH] ใช้ generate ดูตัว Loot
+- https://loot.stephancill.co.za/#/ [ETH]
+- https://gems.alphafinance.io/ [ETH] loot gems ของ alpha
 
 ## Gas Tools
 - https://www.gasnow.org/ [ETH]
